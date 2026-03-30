@@ -1,0 +1,17 @@
+# Compiled Java classes
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+bin/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
