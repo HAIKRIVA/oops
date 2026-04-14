@@ -37,6 +37,8 @@ public class PasswordChecker {
         } 
         else {
             System.out.println("Password Strength: Strong");
+            System.out.println("Congratulations! Your password is strong.");
+
         }
 
         sc.close();
